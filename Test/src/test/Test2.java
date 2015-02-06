@@ -18,7 +18,5 @@ public class Test2 {
         // TODO code application logic here
     }
 
-//Comment added to file	    
-//added in Netbeans b
 }
 
