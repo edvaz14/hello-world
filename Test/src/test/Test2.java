@@ -7,7 +7,7 @@ package test;
 
 /**
  *
- * @author Edwin
+ * @author Edwin Vazquez
  */
 public class Test2 {
 
